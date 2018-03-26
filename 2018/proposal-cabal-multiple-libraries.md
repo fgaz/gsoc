@@ -1,4 +1,4 @@
-# Proposal for the Haskell Summer of Code 2017
+# Proposal for the Google Summer of Code 2018
 
 ## Personal info
 
