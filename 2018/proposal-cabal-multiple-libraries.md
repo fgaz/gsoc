@@ -56,6 +56,7 @@ Maybe take advantage of this period to compensate the [first week of August](#cu
 -->
 
 <a name="cubscouts">
+
 **August, first week**
 
 Unfortunately this week overlaps with my cub scouts camp, so I won't be able to do any work during this time.
