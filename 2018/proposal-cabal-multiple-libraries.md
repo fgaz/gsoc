@@ -10,7 +10,7 @@
 
 I started to learn Haskell about four years ago, and continued to use and study it since then, writing most of [my projects](https://fgaz.me/projects) in it and contributing to others.
 
-I took part in HSoC 2017 with the "Last mile for cabal new-build" project, after which I continued following cabal's development and contributing a bit.
+I took part in HSoC 2017 with the "Last mile for cabal new-build" project, after which I continued following cabal's development and [contributing](https://github.com/haskell/cabal/pulls?q=is%3Apr+author%3Afgaz) a bit.
 
 ## Project info
 
@@ -46,7 +46,17 @@ This proposal also affects other parts of the Haskell ecosystem, which will need
 
 Maybe take advantage of this period to compensate the [first week of August](#cubscouts)
 
--- TODO More timeline details
+**Beginning of June**
+
+Prepare for the first evaluation.
+The goal at this point is to have a basic version of multiple libraries building and depending on each other, but still without a defined build-depends syntax.
+The full timeline/project plan should be well defined now.
+
+**Beginning of July**
+
+Prepare for the second evaluation.
+The work on cabal must be complete by now, and Hackage and Haddock modifications should be ongoing by a while.
+
 <!--
 **May, second half**
 **June, first half**
