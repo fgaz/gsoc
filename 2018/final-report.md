@@ -70,7 +70,7 @@ The main work is done, but there's still some mostly small things to do and poli
 
 * A `visibility = public | private` field to restrict access to sublibraries
 * Version guard the new functionality and forbid the old one in new cabal versions
-* Tests! Possibly lots of them!
+* Tests! Possibly lots of them! And docs
 
 ### Other work
 
