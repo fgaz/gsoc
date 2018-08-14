@@ -6,7 +6,7 @@
 
 ### Main "multiple libraries" PR
 
-The majority of my work is available in PR [#xxxx]()
+The majority of my work is available in PR [#5526](https://github.com/haskell/cabal/pull/5526)
 
 It implements support for multiple libraries per package, as described in
 [#4206](https://github.com/haskell/cabal/issues/4206).
@@ -36,7 +36,7 @@ ways:
 During GSoC I repeatedly tried to separate the two concepts.
 My first early attempt failed due to missing knowledge about the codebase.
 The second attempt is a rebase of [#4265](https://github.com/haskell/cabal/pull/4265)
-and can be found on my [`library-dependency` branch](TODO).
+and can be found on my [`library-dependency` branch](https://github.com/fgaz/cabal/tree/library-dependency).
 Multilibs took a different direction though (multiple components in a single Dependency),
 so that patch is again unmergeable and will probably have to be redone.
 Still, it can be used as a reference.
@@ -50,7 +50,7 @@ In my main pr I added a new datatype to substitute it: `LibraryName`.
 I wasn't able, though, to replace all uses of `Maybe UnqualComponentName`
 without breaking functionality, so this branch is still unmerged.
 
-This refactor can be found on my [`maybeunqual-to-libraryname` branch](TODO).
+This refactor can be found on my [`maybeunqual-to-libraryname` branch](https://github.com/fgaz/cabal/tree/maybeunqual-to-libraryname).
 
 ## Future work
 
