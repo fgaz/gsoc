@@ -16,7 +16,7 @@ There are some `TODO`s in it. See "Future work" for more info.
 #### Trying it
 
 You can try the multiple libraries functionality by building the example project
-that can be found [here](TODO link it).
+that can be found [here](./example-project/).
 
 Just run `cabal new-build`.
 

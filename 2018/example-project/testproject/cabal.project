@@ -1,0 +1,5 @@
+packages:
+  a
+  b
+store-dir: /home/fgaz/cabal/testproject/store
+
