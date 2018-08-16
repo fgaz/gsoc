@@ -13,6 +13,11 @@ It implements support for multiple libraries per package, as described in
 
 There are some `TODO`s in it. See "Future work" for more info.
 
+EDIT: Since I'm going to do more work on that pr and I'll likely rewrite the
+git history, I created another branch and pr to record the state of the
+`multiple-libraries-v4` branch at the moment GSoC2018 ended:
+[#5528](https://github.com/haskell/cabal/pull/5528)
+
 #### Trying it
 
 You can try the multiple libraries functionality by building the example project
