@@ -50,7 +50,8 @@ In my main pr I added a new datatype to substitute it: `LibraryName`.
 I wasn't able, though, to replace all uses of `Maybe UnqualComponentName`
 without breaking functionality, so this branch is still unmerged.
 
-This refactor can be found on my [`maybeunqual-to-libraryname` branch](https://github.com/fgaz/cabal/tree/maybeunqual-to-libraryname).
+The full refactor can be found on my
+[`maybeunqual-to-libraryname` branch](https://github.com/fgaz/cabal/tree/maybeunqual-to-libraryname).
 
 ## Future work
 
