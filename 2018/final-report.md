@@ -22,8 +22,7 @@ git history, I created another branch and pr to record the state of the
 
 You can try the multiple libraries functionality by building the example project
 that can be found [here](./example-project/).
-
-Just run `cabal new-build`.
+Follow the instructions in `README.md`.
 
 ### Other work: refactors
 
