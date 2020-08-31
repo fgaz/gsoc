@@ -2,14 +2,14 @@
 
 ## What was done
 
-* [A prototype](https://gitlab.haskell.org/ghc/ghc/-/merge_requests/3630) was
-  implemented. It demonstrates the behaviour of the pragma, but its design has
-  a few flaws that would prevent integration with GHC.
+* [A prototype](https://gitlab.haskell.org/fgaz/ghc/-/tree/specializable/basic1try2) was
+  implemented. It demonstrated the behaviour of the pragma, but its design had
+  a few flaws that would have prevented integration with GHC.
 * [A GHC proposal](https://github.com/ghc-proposals/ghc-proposals/pull/357)
   was written to propose the change to the wider community.
-* [A final version of the implementation](https://gitlab.haskell.org/fgaz/ghc/-/tree/specializable/basic1try4)
+* [A final version of the implementation](https://gitlab.haskell.org/ghc/ghc/-/merge_requests/3630)
   was written. This version has a cleaner and more maintainable design, and
-  will supercede the prototype.
+  supersedes the prototype.
 
 ## What still needs to be done
 
